@@ -1,7 +1,7 @@
 # Log4Net
-使用Log4Net日志
-  <!--站点日志配置部分-->
-  ``` xml
+使用Log4Net日志 站点日志配置部分
+
+  ``` html
   <log4net>
     <root>
       <priority value="ALL"/>
